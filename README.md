@@ -1,2 +1,2 @@
 # devopshelp
-Help to master the basics
+Help master the basics
