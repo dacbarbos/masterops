@@ -1,4 +1,3 @@
 # masterops
 
-Help master the basics  
-Cheat Sheets & alike repo
+Help master the basics dev|sys[ops].  
